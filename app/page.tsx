@@ -1,4 +1,3 @@
-import AnimeCard from "@/components/AnimeCard";
 import LoadMore from "../components/LoadMore";
 
 import { fetchAnime } from "./actions";
